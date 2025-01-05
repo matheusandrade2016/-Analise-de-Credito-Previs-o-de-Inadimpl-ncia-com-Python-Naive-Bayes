@@ -1,4 +1,4 @@
-**Analise de Credito Previsao de Inadimplencia com Python Naive Bayes**
+**Analise de Credito Previsao de Inadimplencia com Python e algoritmo Naive Bayes**
 
 *Machine Learning: Naive Bayes*
 
